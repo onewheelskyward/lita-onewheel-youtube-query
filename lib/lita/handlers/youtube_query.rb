@@ -19,7 +19,7 @@ module Lita
         end
 
         opts[:part] = 'id,snippet'
-        opts[:q] = response.
+        opts[:q] = response.matches[0][0]
         search_response = client.execute(
             :api_method => youtube.search.list,
             :parameters => opts
