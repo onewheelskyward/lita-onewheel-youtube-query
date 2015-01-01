@@ -23,4 +23,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'simplecov'
   spec.add_development_dependency 'coveralls'
   spec.add_runtime_dependency 'google-api-client'
+  spec.add_runtime_dependency 'multi_json', '1.7.8'
 end
