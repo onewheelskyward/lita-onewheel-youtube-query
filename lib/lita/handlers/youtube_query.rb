@@ -8,7 +8,7 @@ module Lita
       route(/\!(?:youtube|y)/, :youtube_query)
 
       def youtube_query(response)
-        client = Google::APIClient.new(:key => config.google_developer_key,
+        client = ::Google::APIClient.new(:key => config.google_developer_key,
                                        :authorization => nil)
         youtube = client.discovered_api('youtube', 'v3')
 
