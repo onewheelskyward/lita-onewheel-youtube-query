@@ -33,6 +33,7 @@ module Lita
 
       # Index is a tbd.
       def get_search_url_and_text(parsed, index = 0)
+        Lita.logger.debug "Full response: #{parsed.inspect}"
         link = ' http://y2u.be/' + parsed['items'][index]['id']['videoId']
         if link
           return link, parsed['items'][index]['snippet']['title']
