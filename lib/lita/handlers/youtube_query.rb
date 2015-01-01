@@ -1,4 +1,5 @@
 require 'google/api_client'
+require 'trollop'
 
 module Lita
   module Handlers
@@ -11,6 +12,11 @@ module Lita
         client = ::Google::APIClient.new(:key => config.google_developer_key,
                                        :authorization => nil)
         youtube = client.discovered_api('youtube', 'v3')
+
+        opts = Trollop::options do
+          opt :q, 'Search term', :type => String, :default => 'GoogleSearch'
+          opt :maxResults, 'Max results', :type => :int, :default => 25
+        end
 
         opts[:part] = 'id,snippet'
         opts[:q] = response.
