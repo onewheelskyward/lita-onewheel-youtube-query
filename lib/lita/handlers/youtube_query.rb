@@ -18,7 +18,7 @@ module Lita
           opt :maxResults, 'Max results', :type => :int, :default => 25
         end
 
-        opts[:part] = 'id,snippet,contentDetails'
+        opts[:part] = 'id,snippet,content_details'
         opts[:q] = response.matches[0][0]
         search_response = client.execute(
             :api_method => youtube.search.list,
