@@ -18,6 +18,7 @@ module Lita
           opt :maxResults, 'Max results', :type => :int, :default => 25
         end
 
+        Lita.logger.debug "Querying youtube for #{response.matches[0][0]}"
         opts[:part] = 'id,snippet'
         opts[:q] = response.matches[0][0]
         search_response = client.execute(
