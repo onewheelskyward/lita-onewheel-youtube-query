@@ -18,7 +18,7 @@ module Lita
             :api_method => youtube.search.list,
             :parameters => opts
         )
-        parsed = JSON.parse search_response.response.body
+        parsed = MultiJson.load search_response.response.body
         search_url, search_text = get_search_url_and_text(parsed, index)
 
         response.reply "#{search_url} #{search_text}"
