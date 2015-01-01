@@ -25,12 +25,14 @@ module Lita
             :parameters => opts
         )
         parsed = MultiJson.load search_response.response.body
-        search_url, search_text = get_search_url_and_text(parsed, index)
+        search_url, search_text = get_search_url_and_text(parsed)
 
         response.reply "#{search_url} #{search_text}"
 
       end
-      def get_search_url_and_text(parsed, index)
+
+      # Index is a tbd.
+      def get_search_url_and_text(parsed, index = 0)
         link = ' http://y2u.be/' + parsed['items'][index]['id']['videoId']
         if link
           return link, parsed['items'][index]['snippet']['title']
