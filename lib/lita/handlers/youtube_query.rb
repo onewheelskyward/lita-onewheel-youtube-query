@@ -6,7 +6,7 @@ module Lita
     class YoutubeQuery < Handler
       config :google_developer_key
 
-      route(/yo*u*t*u*b*e*\s+(.*)/, :youtube_query)
+      route(/^yo*u*t*u*b*e*\s+(.*)/, :youtube_query)
 
       def youtube_query(response)
         client = ::Google::APIClient.new(:key => config.google_developer_key,
