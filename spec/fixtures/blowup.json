@@ -1,0 +1,837 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "\"5g01s4-wS2b4VpScndqCYc5Y-8k/MxO3VHU-6NrS7hKQc7e3SPbSKzs\"",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 185629,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"5g01s4-wS2b4VpScndqCYc5Y-8k/HVKVvW_PdysQ0yb-UepMAqTqIms\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLuUOn9WVFjHfUoLm31a-jTV321F4Mk2HH"
+      },
+      "snippet": {
+        "publishedAt": "2014-12-27T10:46:18.000Z",
+        "channelId": "UC9h5XIb7uMPa2QQ8cQW3bGw",
+        "title": "Sledge Hammer!",
+        "description": "A satirical cop show withwriters of fantastic pedigree, and a Danny Elfman theme song was a perfect fit for mid-80s television. What could go wrong? Oh... right.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/06WEljhDxao/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/06WEljhDxao/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/06WEljhDxao/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Futonrevolution",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"5g01s4-wS2b4VpScndqCYc5Y-8k/pWVSjx7O0-nhdMSh2mE4exmwhWo\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NvEHFTjp3JA"
+      },
+      "snippet": {
+        "publishedAt": "2011-11-01T19:48:44.000Z",
+        "channelId": "UCuDOs_U1z8Cj38nyNDx383A",
+        "title": "\"Sledge Hammer!\": 'Under The Gun' (Pilot episode)",
+        "description": "The first ever episode of the 1986 comedy TV series \"Sledge Hammer!\", uploaded in full-length format, to save having to interrupt parts and find the next one.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NvEHFTjp3JA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NvEHFTjp3JA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NvEHFTjp3JA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ringlord2000",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"5g01s4-wS2b4VpScndqCYc5Y-8k/YRAVDqnJaagIXddIeQ0SiOF4qy0\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "z60Pfl1nEfM"
+      },
+      "snippet": {
+        "publishedAt": "2014-12-11T00:25:20.000Z",
+        "channelId": "UCkkwAFLgZ-TpO2STMl3G5Yg",
+        "title": "Sledge Hammer Season 2 Episode 11",
+        "description": "Sledge Hammer Full Episodes Season 1 and Season 2. Sledge Hammer Season 1 Sledge Hamm. The first ever episode of the 1986 comedy TV series . Sledge ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z60Pfl1nEfM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z60Pfl1nEfM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z60Pfl1nEfM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ervin Hudson",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"5g01s4-wS2b4VpScndqCYc5Y-8k/QkA-EhXoUYaWsOsincfkwcRsvi8\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLl7ljrpEfEs927jfQ7zNnqXUB3AfeBTcX"
+      },
+      "snippet": {
+        "publishedAt": "2015-09-06T00:34:54.000Z",
+        "channelId": "UCS4nwfQbpOqDBBuqR2TGD0w",
+        "title": "Sledge Hammer!",
+        "description": "Sledge Hammer! is an American satirical police sitcom produced by New World Television that ran for two seasons on ABC from 1986 to 1988. The series was ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a1s3bv2r_Z8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a1s3bv2r_Z8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a1s3bv2r_Z8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Weapon and History Docs",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"5g01s4-wS2b4VpScndqCYc5Y-8k/zIAYVy18YF16YU-pHXTuf7qqG3c\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UGYKU7mbv74"
+      },
+      "snippet": {
+        "publishedAt": "2011-02-28T13:44:59.000Z",
+        "channelId": "UCgs0vmEOYJ6FxcRYbMVtzgA",
+        "title": "Sledge Hammer ! - Intro .... The TV Show",
+        "description": "Trust [371/1835$w What I'm Doing.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UGYKU7mbv74/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UGYKU7mbv74/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UGYKU7mbv74/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "FourJamLions",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"5g01s4-wS2b4VpScndqCYc5Y-8k/kdgQ9xKAeJzKGxmHP6HdY_xslNw\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PL_Y3COSsN1HZQ3GbDSVu9pEC30wnlJ2XG"
+      },
+      "snippet": {
+        "publishedAt": "2016-03-04T11:25:54.000Z",
+        "channelId": "UC22-MCiTxIx6m69Lp0fp5Cg",
+        "title": "Sledge Hammer Season 2",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Pe59-lUSDH0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Pe59-lUSDH0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pe59-lUSDH0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TVs_SledgeHammer",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"5g01s4-wS2b4VpScndqCYc5Y-8k/ZtK7Pu2N0M_AhszvapQzPq9uGfI\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PL_Y3COSsN1HZLfqP6oSpw93rv3cye7p1T"
+      },
+      "snippet": {
+        "publishedAt": "2015-12-04T21:51:36.000Z",
+        "channelId": "UC22-MCiTxIx6m69Lp0fp5Cg",
+        "title": "Sledge Hammer Season 1",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EMebInLZ_Sc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EMebInLZ_Sc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EMebInLZ_Sc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TVs_SledgeHammer",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"5g01s4-wS2b4VpScndqCYc5Y-8k/NSAbV6rQmvsQlITaDfvXnrNKZ0g\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "V-2yxBDP_PA"
+      },
+      "snippet": {
+        "publishedAt": "2014-12-11T00:15:21.000Z",
+        "channelId": "UCkkwAFLgZ-TpO2STMl3G5Yg",
+        "title": "Sledge Hammer Season 2 Episode 11",
+        "description": "Sledge Hammer Full Episodes Season 1 and Season 2. Sledge Hammer Season 1 Sledge Hamm. The first ever episode of the 1986 comedy TV series . Sledge ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V-2yxBDP_PA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V-2yxBDP_PA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V-2yxBDP_PA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ervin Hudson",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"5g01s4-wS2b4VpScndqCYc5Y-8k/NR1lu_j-IOSw_CX50f3rJizTnyM\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9Db-vzfxdEs"
+      },
+      "snippet": {
+        "publishedAt": "2011-11-01T22:08:51.000Z",
+        "channelId": "UCuDOs_U1z8Cj38nyNDx383A",
+        "title": "\"Sledge Hammer!\": 'It Happened What Night?'",
+        "description": "A favorite episode from the second season of the 1987-88 comedy TV series \"Sledge Hammer!\", uploaded in full-length format, tosave having to interrupt parts ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9Db-vzfxdEs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9Db-vzfxdEs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9Db-vzfxdEs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ringlord2000",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"5g01s4-wS2b4VpScndqCYc5Y-8k/3secNAB0ZTsbvmGE0o8leks4lz4\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "R03Dtu1r6nk"
+      },
+      "snippet": {
+        "publishedAt": "2009-03-05T03:32:21.000Z",
+        "channelId": "UCvEt9rekubaRwbNH0AKPpGg",
+        "title": "SLEDGE HAMMER VS SNIPER (Sledge Hammer! s01e01)",
+        "description": "1x01 Sledge se asegura de que el edificio quede tranquilo. Subtítulos en castellano en formato CC.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R03Dtu1r6nk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R03Dtu1r6nk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R03Dtu1r6nk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "unrayochacha1981",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"5g01s4-wS2b4VpScndqCYc5Y-8k/HnS05pmo7b2oJ-xrs4_b6dGTOcQ\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZFA0B816P58"
+      },
+      "snippet": {
+        "publishedAt": "2014-12-30T14:45:23.000Z",
+        "channelId": "UC9h5XIb7uMPa2QQ8cQW3bGw",
+        "title": "Sledge Hammer S01E05 Dori Day Afternoon",
+        "description": "Not the best Al Pacino impersonation ever, but this is still a fun episode. Remember when comedy shows knew that a joke requires a set-up and punchline, not ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZFA0B816P58/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZFA0B816P58/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZFA0B816P58/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Futonrevolution",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"5g01s4-wS2b4VpScndqCYc5Y-8k/IGEkhXelD_EjvWN1ls_IyWcevog\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pFh09hF6qlA"
+      },
+      "snippet": {
+        "publishedAt": "2008-01-12T22:07:29.000Z",
+        "channelId": "UCmpvHXtkFET6wptLnshyg7Q",
+        "title": "Sledge Hammer clips",
+        "description": "Random Sledge Hammer clips #2: http://youtube.com/watch?v=hwGLKDiTTY0.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pFh09hF6qlA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pFh09hF6qlA/mqdefault.jpg",
+            "width": 334,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pFh09hF6qlA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "eewoo",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"5g01s4-wS2b4VpScndqCYc5Y-8k/DhqFsZBs5PPwPTooClg5_5DJQrc\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PL90FcmUgZe6CV9m7kgTiJrJ8SOdK6rtrR"
+      },
+      "snippet": {
+        "publishedAt": "2012-11-22T05:44:41.000Z",
+        "channelId": "UCoN0NFOqrtpzJOoOmzdenKA",
+        "title": "\"SLEDGE HAMMER!\"- THE COMPLETE TV SERIES, (1986--1988) PLUS",
+        "description": "One of my FAVORITE TV SERIES OF ALL - TIME! CLEVER AND FUNNY! From the opening notesof the AWESOME Danny Elfman Theme Music to the catch ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NvEHFTjp3JA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NvEHFTjp3JA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NvEHFTjp3JA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mike's Organic Videos",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"5g01s4-wS2b4VpScndqCYc5Y-8k/76Mau7_L4ChGR8hPXvbnBau8EEU\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZWVzPC-k-cQ"
+      },
+      "snippet": {
+        "publishedAt": "2011-11-01T16:52:28.000Z",
+        "channelId": "UCuDOs_U1z8Cj38nyNDx383A",
+        "title": "An Introduction To Sledge Hammer - \"Gun Crazy - Memorable Moments With The Cast\"",
+        "description": "14-minute documentary celebrating the best excerpts from spoof cop show \"Sledge Hammer!\" (that character played by David Rasche)- about the San ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZWVzPC-k-cQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZWVzPC-k-cQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZWVzPC-k-cQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ringlord2000",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"5g01s4-wS2b4VpScndqCYc5Y-8k/DtTciHHftorQnEZ2WsQ-vV4ptZE\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mMW9G6x2Olg"
+      },
+      "snippet": {
+        "publishedAt": "2010-08-14T03:56:26.000Z",
+        "channelId": "UCNXq24Y6icxUclS39gSR6eA",
+        "title": "Sledge Hammer!  I'm A Cop",
+        "description": "FLASH: 30 Anniversary Tribute at Sketchfest 2016 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mMW9G6x2Olg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mMW9G6x2Olg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mMW9G6x2Olg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "qdmg2007",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"5g01s4-wS2b4VpScndqCYc5Y-8k/sTYuH64uCOnkt7mXDwUvHO5-eRI\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YmdWfoncqCM"
+      },
+      "snippet": {
+        "publishedAt": "2013-08-13T20:04:41.000Z",
+        "channelId": "UCnSeqW1urNjxQoIpBP6NOXQ",
+        "title": "Sledge Hammer - Comrade Hammer (from TV)",
+        "description": "Sledge has to protect a Soviet defector traveling to a science conference by train. Enjoy!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YmdWfoncqCM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YmdWfoncqCM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YmdWfoncqCM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SuperClassicsPlus",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"5g01s4-wS2b4VpScndqCYc5Y-8k/89ipqXunzPH0jzbJZHU-0NwcyOM\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TBCJgPP1kZc"
+      },
+      "snippet": {
+        "publishedAt": "2014-12-11T00:12:32.000Z",
+        "channelId": "UCkkwAFLgZ-TpO2STMl3G5Yg",
+        "title": "Sledge Hammer Season 2 Episode 2",
+        "description": "The first chapter of the greatest story ever told! Hey guys hope you enjoy my new series. Please leave alike and Subscribe. This is Stick RPG 2 and i will make a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TBCJgPP1kZc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TBCJgPP1kZc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TBCJgPP1kZc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ervin Hudson",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"5g01s4-wS2b4VpScndqCYc5Y-8k/CQIcK2hvcD5KF8C4Y1fF1ew9EyU\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1bizFiNh-xE"
+      },
+      "snippet": {
+        "publishedAt": "2014-12-10T23:56:42.000Z",
+        "channelId": "UCkkwAFLgZ-TpO2STMl3G5Yg",
+        "title": "Sledge Hammer Season 2 Episode 11",
+        "description": "Sledge Hammer Full Episodes Season 1 and Season 2. Sledge Hammer Season 1 Sledge Hamm. The first ever episode of the 1986 comedy TV series . Sledge ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1bizFiNh-xE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1bizFiNh-xE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1bizFiNh-xE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ervin Hudson",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"5g01s4-wS2b4VpScndqCYc5Y-8k/SsZV-jg4xVo60onyqiRypXgUtkg\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hyUIXxeIKT4"
+      },
+      "snippet": {
+        "publishedAt": "2015-09-08T19:55:17.000Z",
+        "channelId": "UCS4nwfQbpOqDBBuqR2TGD0w",
+        "title": "Sledge Hammer!- S02E04 - Wild About Hammer",
+        "description": "Original air date: October 8, 1987 A female cop with a sadistic/masochistic fetish falls for and kidn[298/1835$.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hyUIXxeIKT4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/v$/hyUIXxeIKT4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hyUIXxeIKT4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Weapon and History Docs",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"5g01s4-wS2b4VpScndqCYc5Y-8k/16PGi8BB0Mpdtj5hdq9QFCiuCJQ\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iwt3Ec0hCEU"
+      },
+      "snippet": {
+        "publishedAt": "2014-12-10T23:24:01.000Z",
+        "channelId": "UCkkwAFLgZ-TpO2STMl3G5Yg",
+        "title": "Sledge Hammer!: 'Under The Gun' (Pilot episode)",
+        "description": "The first ever episode of the 1986 comedy TV series Sledge Hammer!, uploaded in full-length format, to save having to interrupt parts and find the next one.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iwt3Ec0hCEU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iwt3Ec0hCEU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iwt3Ec0hCEU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ervin Hudson",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"5g01s4-wS2b4VpScndqCYc5Y-8k/FzgLI2tQ1s2AlaMGO3Q0I9oP8O4\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1umGj-yC700"
+      },
+      "snippet": {
+        "publishedAt": "2015-09-08T20:26:47.000Z",
+        "channelId": "UCS4nwfQbpOqDBBuqR2TGD0w",
+        "title": "Sledge Hammer! - S02E10 - Hammeroid",
+        "description": "Original air date: November 26, 1987 After breaking nearly all his bones, Sledge encases himself in a robotic suit to stop a robot.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1umGj-yC700/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1umGj-yC700/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1umGj-yC700/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Weapon and History Docs",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"5g01s4-wS2b4VpScndqCYc5Y-8k/gacq1qMWRdBo4jMukFSGMLotm6k\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Kaezj2FFppM"
+      },
+      "snippet": {
+        "publishedAt": "2014-12-30T15:39:47.000Z",
+        "channelId": "UC9h5XIb7uMPa2QQ8cQW3bGw",
+        "title": "Sledge Hammer S01E06 To Sledge With Love",
+        "description": "Sledge is too school for cool on 22 Jump Street. A satirical cop show with writers of fantastic pedigree and a Danny Elfman theme song was a perfect fit for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kaezj2FFppM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kaezj2FFppM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kaezj2FFppM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Futonrevolution",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"5g01s4-wS2b4VpScndqCYc5Y-8k/ze41uD5sm3u6RdIR2FmJ6xbwaZg\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XGoU7urNTbI"
+      },
+      "snippet": {
+        "publishedAt": "2008-04-26T18:28:25.000Z",
+        "channelId": "UCmpvHXtkFET6wptLnshyg7Q",
+        "title": "Sledge Hammer defusing a nuclear bomb",
+        "description": "InspectorHammer tries to defuse a nuclear bomb.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XGoU7urNTbI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XGoU7urNTbI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XGoU7urNTbI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "eewoo",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"5g01s4-wS2b4VpScndqCYc5Y-8k/k-v4sI7Ts6tA3b0KFd7odOznplA\"",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLAPGcD5LGrp4g9pNQVn-UGl7IuZ9cgiD-"
+      },
+      "snippet": {
+        "publishedAt": "2016-05-12T22:13:25.000Z",
+        "channelId": "UCs5h0DNVDxmZjHcqz3tUbfg",
+        "title": "Sledge Hammer! - TV Series Seasons 1 & 2 (42 Full Episodes)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a1s3bv2r_Z8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a1s3bv2r_Z8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a1s3bv2r_Z8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DaveG",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"5g01s4-wS2b4VpScndqCYc5Y-8k/lYEnhEYcU0zKCXR8Mn713hfxmfg\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QeUW5DTve5A"
+      },
+      "snippet": {
+        "publishedAt": "2013-12-06T16:27:00.000Z",
+        "channelId": "UCjhbx6eDz5ZKFFgRzCWjnzg",
+        "title": "1986 - Sledge Hammer - David Rasche - TV Series - US Trailer - Teaser - English",
+        "description": "Sledge Hammer! [TV-Serie] (1986) Satirische Copfilm-Persiflage um ein destruktives Polizisten-Dreigespann. Sledge Hammer (David Rasche), von Beruf ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QeUW5DTve5A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QeUW5DTve5A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QeUW5DTve5A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tom Trailer",
+        "liveBroadcastContent": "none"
+      }
+    }
+  ]
+}
